@@ -31,4 +31,3 @@ int main()
     printf("The sum of the series is:%d", s);
     return 0;
 }
-
